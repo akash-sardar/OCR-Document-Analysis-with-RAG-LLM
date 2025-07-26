@@ -1,0 +1,17 @@
+pandas
+numpy
+spacy
+torch
+transformers
+pytesseract
+opencv-python
+sentence-transformers
+pdf2image
+poppler-utils
+imutils
+from_root
+dotenv
+PyMuPDF
+paddlepaddle-gpu==2.6.1.post117
+paddleocr==2.6.1.3
+-e .

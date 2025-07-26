@@ -1,0 +1,97 @@
+INSTRUCTIONS FOR COMPLETING ENVIRONMENTAL SAMPLE COLLECTION FORM
+Public Drinking Water Bacterial Analysis
+
+PRINT LEGIBLY using water proof ink. A standard ink pen is sufficient. Complete ALL sample information lines on the form.
+‘Some sections of the form may already be completed by the laboratory computer system when the forms are printed. To make
+corrections, please draw a single line through the inaccurate information and print the corrected information behind it. The
+sections of the form and directions for completing each line are as follows:
+
+Order #: For Missouri State Public Health Lab (MSPHL) purposes only. Pages in Order and Containers in Order indicate number of
+forms and sample bottles shipped in the sample kit order.
+
+REPORT TO: Public water system's name and shipping address on file with Missouri Department of Natural Resources (MDNR),
+Please review and correct if necessary. Result reports will be mailed to this address.
+BILL TO: Section defaulted to the MDNR. There are no charges for public water tes
+
+ing at the MSPHL.
+
+Requested Analysis/Tests:
+
+This section will state PUBLIC DRINKING WATER BACTERIAL ANALY:
+form. Please contact the MS
+for priva
+
+[Fit does not, you may have the wrong collection
+HL or MDNR for the proper form. Do not use forms from a local county health agency as those forms are
+‘well water samples. Your MDNR Regional Office can provide blank forms for your t
+
+Complete or correct the following information:
+‘All lines are considered required information. Failure to complete a line may result in an invalid sample.
+
+Collected Date: Enter the date of sample collection in the format YYYY-MM-DD. Use 4 digits for year and 2 di
+November 1, 2015 would be written as 2015-11-01
+Collected Time: Enter the time of sample collection using 24-hour military format hh:mm.
+PWS ID: If blank, enter your 7-digit Public Water System ID number as assigned by MDNR (MO###!##).
+Facility ID: Defaulted to DS (Distribution System) for routine samples. If submitting a sample type other than Routine, enter the Facility
+1D number from your system's MDNR approved sample site plan (for example DS#, WL#, WT#).
+Sample Type: Enter one of the following options:
+
+Routine — Regular monthly monitoring samples.
+
+A series of 3 or 4 repeat samples (4 if you only take | routine per month) must be taken for each routine sample that tests,
+positive (Present) for coliform bacteria, All repeats must be taken on the same day, within 24 hours of being notified of the
+coliform positive sample. Site locations are based on the approved site sampling plan. ‘Typically these samples will consist of one
+from the site of the original unsafe sample location, one within 5 service connections upstream, one within 5 service connections
+downstream, and one from a location specified or approved by MDNR. If your system is a ground water system serving less than
+1,000 people without 4 log virus inactivation, one repeat sample (the fourth repeat) may be collected from the source/well prior to
+treatment. See Repeat Location below.
+
+Replacement — All samples which are not tested because they were invalid, incomplete information, outdated, broken in transit,
+
+frozen, etc., must be replaced with a single sample from the same location 24 hours of being notified.
+
+Source/Well ~ If your system is a ground water system without chlorine contact time (4 log virus inactivation or removal), one
+mple must be collected from each well/source, prior to any treatment, active at the time of the positive sample(s).
+
+Special — Any sample that does not count for compliance. These may include samples to check disinfection practices on repairs or
+
+‘new construction of for seasonal public water systems prior to serving water to the public.
+
+‘Sample Collection Point ID: Enter the sampling point ID number from your system's MDNR approved sample site plan. This number is
+
+required. DO NOT LEAVE BLANK, Ifyou have questions about your Sample Collection Point ID, please contact the MDNR.
+
+Location: Enter the address or name of the collection location associated with the Sample Collection Point ID above. (Important Note
+
+‘The Location is tied to the Sample Collection Point ID from the approved site sampling plan and will be the location printed on
+
+the final analysis report. If the location entered on the collection form does not match the final report, contact MDNR.)
+
+Collector: Enter your last name, first name.
+
+Collector Phone: Enter your 10-digit day time phone number.
+
+Sample Category: This will alw: and is already filled out for you.
+
+Repeat Location: If the sample type above is Repeat, enter the repeat location for this sample: upstream, downstream, original, source or
+
+other. If other, please describe the location
+
+Bottle Number: Enter the number from the label on the bottle. This is used to match collection forms to samples.
+
+Free Chilo fe the free chlorine test level in mg/L. (if your system is chlorinated).
+
+Total Chlorine: Enter the total chlorine test level in mg/L. (if your system is chlorinated).
+
+Collector Signature: By signing you attest that the information provided is accurate to the best of your knowledge.
+
+County: Enter the county name for the collection point if itis not already filled out for you.
+
+All other sections of the Environmental Sample Collection Form are for MSPHL use only. If you have any quest
+
+MSPHL Environmental Bacteriology Unit at (573) 751-3334 or your local MDNR Regional Oft
+
+ns, please contact the
+-e (see next page for phone numbers),
+
+Page 3 of 4 LAB 34 Public Water (R10-2015)
